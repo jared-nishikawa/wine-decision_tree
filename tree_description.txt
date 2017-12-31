@@ -1,0 +1,79 @@
+Color intensity:
+    
+{
+    Color intensity
+    'value': 3.52,
+    'right': {
+        Flavanoids
+        'value': 2.19,
+        'right': {
+            Proline
+            'value': 735.0,
+            'right': {
+                Alcohol
+                'value': 14.02,
+                'right': {
+                    Alcohol 
+                    'value': 14.02,
+                    'right': '1',
+                    'left': '1'},
+                'left': {
+                    Alcohol
+                    'value': 13.5,
+                    'right': '1',
+                    'left': '1'}},
+            'left': {
+                Alcohol
+                'value': 11.56,
+                'right': '2',
+                'left': '2'}},
+        'left': {
+            Flavanoids
+            'value': 1.41,
+            'right': {
+                Alcohol
+                'value': 11.66,
+                'right': '2',
+                'left': '2'},
+            'left': {
+                Hue
+                'value': 1.05,
+                'right': {
+                    Alcohol
+                    'value': 12.0,
+                    'right': '2',
+                    'left': '2'},
+                'left': {
+                    Alcohol
+                    'value': 12.77,
+                    'right': '3',
+                    'left': '3'}}}},
+    'left': {
+        Alcohol
+        'value': 12.22,
+        'right': {
+            Alcohol
+            'value': 12.22,
+            'right': '2',
+            'left': '2'},
+        'left': {
+            Alcohol
+            'value': 12.08,
+            'right': {
+                Alcohol
+                'value': 12.08,
+                'right': '2',
+                'left': '2'},
+            'left': {
+                Alcohol
+                'value': 12.0,
+                'right': {
+                    Alcohol
+                    'value': 12.0,
+                    'right': '2',
+                    'left': '2'},
+                'left': {
+                    Alcohol
+                    'value': 11.61,
+                    'right': '2',
+                    'left': '2'}}}}}

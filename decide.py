@@ -140,3 +140,5 @@ if __name__ == '__main__':
             right += 1
     pct = round(float(right)*100/total,2)
     print "%.2f%%" % pct
+
+    print tree
